@@ -1,0 +1,10 @@
+component,metric,value
+TF-IDF intent classifier,accuracy,0.2708333333333333
+TF-IDF intent classifier,macro_f1,0.12623224728487886
+TF-IDF intent classifier,weighted_f1,0.23311751601225283
+Rule-based escalation,accuracy,0.6544502617801047
+Rule-based escalation,human_precision,0.4230769230769231
+Rule-based escalation,human_recall,0.1774193548387097
+Rule-based escalation,human_f1,0.25
+Historical retrieval,avg_top1_similarity,0.8049059808254242
+Historical retrieval,avg_top5_similarity,0.7380275304118792
