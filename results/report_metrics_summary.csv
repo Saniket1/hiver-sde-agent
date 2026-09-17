@@ -1,0 +1,27 @@
+section,metric,value
+Golden set,Human-verified examples,191.0
+Golden set,Intents covered,10.0
+Golden set,Missing intent labels,0.0
+Golden set,Missing escalation labels,0.0
+Golden set,Duplicate messages,0.0
+Intent,Majority baseline accuracy,0.3541666666666667
+Intent,Majority baseline macro F1,0.0523076923076923
+Intent,TF-IDF accuracy,0.2708333333333333
+Intent,TF-IDF macro F1,0.1262322472848788
+Intent,Embedding accuracy,0.4791666666666667
+Intent,Embedding macro F1,0.3302447552447553
+Intent,Embedding accuracy gain vs TF-IDF,0.20833333333333337
+Intent,Embedding macro F1 gain vs TF-IDF,0.20401250795987647
+Intent,Embedding accuracy gain vs majority,0.125
+Intent,Embedding macro F1 gain vs majority,0.277937062937063
+Escalation,Rule accuracy,0.6544502617801047
+Escalation,HUMAN precision,0.4230769230769231
+Escalation,HUMAN recall,0.1774193548387097
+Escalation,HUMAN F1,0.25
+Retrieval,Average top-1 similarity,0.8049059808254242
+Retrieval,Average top-5 similarity,0.7380275304118792
+Failure analysis,Intent errors on 48-example holdout,25.0
+Failure analysis,Intent error rate,0.5208333333333334
+Human consistency,Intent agreement,0.85
+Human consistency,Escalation agreement,0.35
+Human consistency,Overall agreement,0.3
